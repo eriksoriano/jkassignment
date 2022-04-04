@@ -1,1 +1,17 @@
 theme: jekyll-theme-hacker
+url: https://eriksoriano.github.io/jkassignment/
+
+baseurl: /jkassignment/
+title: my keyll site bro
+description: this is my jekyll site by erik soriano
+
+# custom variables can be added too
+
+# site variable
+instagram: "https://instagram.com/erik"
+[instagram]{{site.instagram}} 
+
+# page varaiable
+[instagram]{{page.instagram}} 
+
+author: erik soriano
