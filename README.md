@@ -34,3 +34,5 @@ __bold__
 ***
 ---
 
+<a href="https://google.com">Google<a/>
+[Google](https://google.com
