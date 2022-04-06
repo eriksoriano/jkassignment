@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: about
 title: about page (this will replace the site.title)
 description: this is the about us page
 ---
