@@ -1,9 +1,9 @@
 ---
 layout: default
-title: about us
+title: about page
 description: this is the about us page
 ---
 
 # About us
 
-## This page is my assignment for the jerkyll website
+## This page is my ABOUT US assignment for the jerkyll website
