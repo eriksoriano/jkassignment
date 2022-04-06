@@ -2,7 +2,7 @@ theme: jekyll-theme-hacker
 url: https://eriksoriano.github.io
 
 baseurl: /jkassignment/
-title: my keyll site bro
+title: index page (home)
 description: this is my jekyll site by erik soriano
 
 # custom variables can be added too
