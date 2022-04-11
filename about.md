@@ -13,3 +13,7 @@ description: this is the about us page
 - i like programming alot
 - i go to um
 - i speak spanish
+
+
+{% comment not finna show %}
+{% include credits.html %}
