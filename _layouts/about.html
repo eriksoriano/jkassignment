@@ -13,9 +13,9 @@
   </head>
 
   <body>
-
+    <div class="about">
     <header>
-      <div class="container about">
+      <div class="container">
         <a id="a-title" href="{{ '/' | relative_url }}">
           <h1>{{ page.title | site.title | default: site.github.repository_name }}</h1>
         </a>
@@ -36,5 +36,6 @@
         {{ content }}
       </section>
     </div>
+  </div>
   </body>
 </html>
