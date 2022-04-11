@@ -19,3 +19,7 @@ body {
     color: black;
     background-color: pink;
 }
+
+li.btn {
+    display: flex;
+}

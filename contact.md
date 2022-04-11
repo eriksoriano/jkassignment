@@ -5,6 +5,7 @@ description: this is the about us page
 ---
 
 # Contact Us
+{% include nav.html%}
 
 ## this is the CONTACT page
 

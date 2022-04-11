@@ -6,6 +6,8 @@ description: this is the about us page
 
 # About us
 
+{% include nav.html%}
+
 ## This page is my ABOUT US assignment for the jerkyll website
 
 - my class is front end fundamentals
@@ -15,6 +17,5 @@ description: this is the about us page
 - i speak spanish
 
 
-{% comment not finna show %}
 
 {% include credits.html %}
