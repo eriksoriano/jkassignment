@@ -1,18 +1,10 @@
 ---
 ---
 
-$body-background: black !default;
-$body-foreground: $gallery !default;
-$header: $conifer !default;
-$blockquote-color: $silver-chalice !default;
-$blockquote-border: $dove-grey !default;
-$container-max-width: 1000px;
+$body-background: #000000 !default;
 
-@mixin media-max-width($max-width) {
-  @media (max-width: $max-width) {
-      @content;
-  }
-}
+
+@import "{{site.theme}}";
 
 body {
   margin: 0;
@@ -269,7 +261,6 @@ a {
 }
 
 
-@import "{{site.theme}}";
 
 // h1 {
 //     color: red;
