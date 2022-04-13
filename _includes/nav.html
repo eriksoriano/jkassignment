@@ -1,7 +1,16 @@
-<nav>
+<!-- <nav>
     <ul>
         <li class="btn" ><a href="index.html">index</a></li>
         <li class="btn" ><a href="about.html">about</a></li>
         <li class="btn" ><a href="contact.html">contact</a></li>
     </ul>
-</nav>
+</nav> -->
+
+<!-- basically you automate the process by everytime you create page -->
+<!-- it automatically adds the page to the navigation -->
+<ul>
+    {% assign sorted_pages = site.html_pages | sort:"order" %}
+    {% for page in sorted_pages %}
+    <li class="btn"><a href="{{site.baseurl}}{{page.url}}">{{page.title}}</a></li>
+    {% endfor %}
+</ul>
