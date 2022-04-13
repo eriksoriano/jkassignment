@@ -2,6 +2,7 @@
 layout: default
 title: HOME
 description: this is the HOME page
+order: 1
 ---
 
 

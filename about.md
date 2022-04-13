@@ -2,6 +2,8 @@
 layout: about
 title: about page
 description: this is the about us page
+order: 2
+
 ---
 
 # About us

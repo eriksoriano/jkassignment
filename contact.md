@@ -2,6 +2,8 @@
 layout: contact
 title: contact us
 description: this is the about us page
+order: 3
+
 ---
 
 # Contact Us
