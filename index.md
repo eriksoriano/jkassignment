@@ -9,6 +9,8 @@ description: this is the about us page
 
 
 ## Welcome to GitHub Pages
+{% include nav.html%}
+
 
 You can use the [editor on GitHub](https://github.com/eriksoriano/jkassignment/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
