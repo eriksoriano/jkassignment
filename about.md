@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about page (this will replace the site.title)
+title: about page
 description: this is the about us page
 ---
 

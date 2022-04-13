@@ -1,9 +1,6 @@
 ---
 ---
 
-@import "rouge-base16-dark";
-@import "default_colors";
-
 $body-background: $black !default;
 $body-foreground: $gallery !default;
 $header: $conifer !default;
@@ -120,6 +117,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #main_content h1 {
   font-size: 30px;
+  color: yellow;
 }
 
 #main_content h2 {
