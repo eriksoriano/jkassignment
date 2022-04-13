@@ -1,7 +1,7 @@
 ---
 layout: default
-title: home
-description: this is the about us page
+title: HOME
+description: this is the HOME page
 ---
 
 
