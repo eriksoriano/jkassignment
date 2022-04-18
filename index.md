@@ -6,10 +6,7 @@ order: 1
 ---
 
 
-{% include credits.html %}
-
-
-## Welcome to GitHub Pages
+## HOME PAGE
 {% include nav.html%}
 
 

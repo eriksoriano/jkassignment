@@ -7,8 +7,8 @@ order: 2
 ---
 
 # About us
-
 {% include nav.html%}
+
 
 ## This page is my ABOUT US assignment for the jerkyll website
 
