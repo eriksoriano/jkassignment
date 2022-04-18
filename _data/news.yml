@@ -1,24 +1,24 @@
 story:
 - image: "https://picsum.photos/200/200"
-image-alt: placeholder image 1
-title: Story Title 1
-Subtitle: subtitle 1
-story-content: story-content 1
-tag-link: "https://google.com"
-tag: let's go to google
+  image-alt: placeholder image 1
+  title: Story Title 1
+  Subtitle: subtitle 1
+  story-content: story-content 1
+  tag-link: "https://google.com"
+  tag: let's go to google
 
 - image: "https://picsum.photos/200/200"
-image-alt: placeholder image 2
-title: Story Title 2
-Subtitle: subtitle 2
-story-content: story-content 2
-tag-link: "https://google.com"
-tag: let's go to google
+  image-alt: placeholder image 2
+  title: Story Title 2
+  Subtitle: subtitle 2
+  story-content: story-content 2
+  tag-link: "https://google.com"
+  tag: let's go to google
 
 - image: "https://picsum.photos/200/200"
-image-alt: placeholder image 3
-title: Story Title 
-Subtitle: subtitle 3
-story-content: story-content 3
-tag-link: "https://google.com"
-tag: let's go to google
+  image-alt: placeholder image 3
+  title: Story Title 
+  Subtitle: subtitle 3
+  story-content: story-content 3
+  tag-link: "https://google.com"
+  tag: let's go to google
